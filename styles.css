@@ -1,0 +1,20 @@
+body{
+    width: 650px;
+    margin: auto;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    font-size: 36px;
+    color: aquamarine;
+}
+
+a{
+    display: block;
+    font-size: 16px;
+    margin: 15px auto;
+    border: 5px solid red;
+    padding: 10px;
+    font-weight: 800;
+}
